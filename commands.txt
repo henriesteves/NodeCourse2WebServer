@@ -1,3 +1,9 @@
+npm i express --save
+
+npm i hbs --save
+
+nodemon server.js -e js, hbs
+
 heroku help
 
 heroku login
